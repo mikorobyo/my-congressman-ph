@@ -131,7 +131,7 @@ class App extends React.Component {
         twitter = <Button color='primary' onClick={() => window.open(selected.twitter)}  fullWidth> Twitter: @{twitterId} </Button>
       }
       let verb = selected.vote == 'Absent' ? 'was' : 'voted';
-      let sampleMsg = '<i>Dear (representative),\nAs my elected representative in the legislature, I demand that you protect the rights of the Filipinos to freedom of speech and withdraw your \"yes\" vote on the \"Anti-Terror Bill\" (HB 6875). Your stance on this issue today will dictate our stance on you come next election.\n(Your name)</i>';
+      let sampleMsg = 'Dear Rep. (representative),\nAs my elected representative in the legislature, I demand that you protect the rights of the Filipinos to freedom of speech and withdraw your \"yes\" vote on the \"Anti-Terror Bill\" (HB 6875). Your stance on this issue today will dictate our stance on you come next election.\n(Your name)';
       details = <div><div class="suggestion-content" >
                         <img class="photo" src={selected.photo} alt={selected.name}/>
                         <div>
