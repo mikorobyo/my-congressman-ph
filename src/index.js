@@ -140,14 +140,14 @@ class App extends React.Component {
                       </div>
                       <div>
                       <br/>
-                        <i>Let your voice be heard!</i><br/>Click to contact your congressman: <br/><br/>
+                        <i>Let your voices be heard!</i><br/>Click to contact your congressman: <br/><br/>
                         <Button color='primary' onClick={() => window.open('mailto:' + selected.email)}  fullWidth> Email: {selected.email} </Button>
                         <Button color='primary' onClick={() => window.open(selected.facebook)}  fullWidth> Facebook: {fbId} </Button>
                         <Button color='primary' onClick={() => window.open(messengerLink)}  fullWidth> Messenger: {fbId} </Button>
                         {twitter}
                         <Button color='primary' onClick={() => window.open(parsedPhone)}  fullWidth> Phone: {selected.phone} </Button>
                         <Button color='primary' onClick={() => window.open(otherBills)}  fullWidth> Browse Other Bills Authored</Button>
-                        <Button color='green' onClick={() => {navigator.clipboard.writeText(sampleMsg)}}  fullWidth> Copy sample message content </Button>
+                        <Button color='green' onClick={() => {navigator.clipboard.writeText(sampleMsg)}}  fullWidth> Copy template message to clipboard</Button>
                       </div>
                  </div>;
 
