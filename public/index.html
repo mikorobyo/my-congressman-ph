@@ -24,20 +24,21 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>My Congressman PH</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=256701168886120&autoLogAppEvents=1"></script>
+    <div id="body">
+      <div id="root"></div>
+      <div>
+        <div id="fb" class="fb-share-button" data-href="https://mycongressmanph.now.sh" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmycongressmanph.now.sh%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Alamin ang mga akda at boto ng iyong kongresista sa mga panukalang batas, tulad ng Anti-Terror Bill. Layon nitong mas maging aktibo ang mga mamamayan sa proseso ng paggawa at pag-apruba ng mga batas sa pamamagitan ng mga kumakatawan sa atin sa Kongreso." data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <p/>
+        <div id="footer-text">Disclaimer: This is not an official website of the House of Representatives of the Philippines. All data displayed here are publicly available from its official website.</div
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+      </div>
+    </div>
   </body>
 </html>
