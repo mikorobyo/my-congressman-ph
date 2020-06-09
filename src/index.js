@@ -1,33 +1,59 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Autosuggest from 'react-autosuggest';
+import AutosuggestHighlightMatch from 'autosuggest-highlight/match';
+import AutosuggestHighlightParse from 'autosuggest-highlight/parse';
 import { Button } from '@material-ui/core';
 import './index.css';
 import data from './data/data.json';
 import 'fontsource-roboto';
 import Typography from '@material-ui/core/Typography';
-import { makeStyles } from '@material-ui/core/styles';
 
 const getSuggestions = value => {
   const inputValue = value.trim().toLowerCase();
   const inputLength = inputValue.length;
 
   return inputLength === 0 ? [] : data.filter(lang =>
-    lang.district.toLowerCase().slice(0, inputLength) === inputValue
+    lang.district.toLowerCase().includes(inputValue) //|| lang.constituents.toLowerCase().includes(inputValue)
   );
 };
 
 const getSuggestionValue = suggestion => suggestion.district;
 
-const renderSuggestion = suggestion => (
-      <div class="suggestion-content">
-        <img class="photo" src={suggestion.photo} alt={suggestion.name}/>
-        <div>
-            <div class="name">{suggestion.district}</div>
-            <div class="constituents">{suggestion.constituents}</div>
-        </div>
-      </div>
-);
+function renderSuggestion(suggestion, { query }) {
+  const matches = AutosuggestHighlightMatch(suggestion.district, query);
+  const parts = AutosuggestHighlightParse(suggestion.district, matches);
+
+  return (
+    <div class="suggestion-content">
+    <img class="photo" src={suggestion.photo} alt={suggestion.name}/>
+    <div>
+    <div class="name">
+      {parts.map((part, index) => {
+        const className = part.highlight ? 'react-autosuggest__suggestion-match' : null;
+
+        return (
+          <span className={className} key={index}>
+            {part.text}
+          </span>
+        );
+      })}
+    </div>
+    <div class="constituents">{suggestion.constituents}</div>
+    </div>
+    </div>
+  );
+}
+
+//const renderSuggestion = suggestion => (
+//      <div class="suggestion-content">
+//        <img class="photo" src={suggestion.photo} alt={suggestion.name}/>
+//        <div>
+//            <div class="name">{suggestion.district}</div>
+//            <div class="constituents">{suggestion.constituents}</div>
+//        </div>
+//      </div>
+//);
 
 const getBillValue = bill => bill;
 
@@ -113,13 +139,13 @@ class App extends React.Component {
 
     if (selected.name) {
         let parsedName = selected.name.substring(selected.name.indexOf('.') + 2);
-        let surname = parsedName.substring(0, parsedName.indexOf(',')).toLowerCase();
+        let surname = parsedName.substring(0, parsedName.indexOf(','));
         let nameInitial = parsedName.substring(parsedName.indexOf(',') + 2, parsedName.indexOf(',') + 3).toLowerCase();
         if (!selected.photo) {
-            selected.photo = 'http://www.congress.gov.ph/members/images/18th/' + surname + '-' + nameInitial + '.jpg';
+            selected.photo = 'http://www.congress.gov.ph/members/images/18th/' + surname.toLowerCase() + '-' + nameInitial + '.jpg';
         }
 
-      let voteColor =  selected.vote == 'No' ? 'blue' :  (selected.vote == 'Yes' ? 'red' : 'grey'); //grey for Abstain and Absent
+      let voteColor =  selected.vote === 'No' ? 'blue' :  (selected.vote === 'Yes' ? 'red' : 'grey'); //grey for Abstain and Absent
       let fbId = selected.facebook.substring(selected.facebook.indexOf('facebook.com/') + 'facebook.com/'.length, selected.facebook.length - 1);;
       let messengerLink = 'https://m.me/' + fbId;
       let twitterId = selected.twitter.substring(selected.twitter.indexOf('twitter.com/') + 'twitter.com/'.length, selected.twitter.length);;
@@ -127,11 +153,11 @@ class App extends React.Component {
       let congressmanId = selected.photo.substring(selected.photo.indexOf('images/18th/') + 'images/18th/'.length, selected.photo.length - 4);;
       let otherBills = 'http://www.congress.gov.ph/members/search.php?id=' + congressmanId;
       let twitter;
-      if (selected.twitter != ''){
+      if (selected.twitter !== ''){
         twitter = <Button color='primary' onClick={() => window.open(selected.twitter)}  fullWidth> Twitter: @{twitterId} </Button>
       }
-      let verb = selected.vote == 'Absent' ? 'was' : 'voted';
-      let sampleMsg = 'Dear Rep. (representative),\nAs my elected representative in the legislature, I demand that you protect the rights of the Filipinos to freedom of speech and withdraw your \"yes\" vote on the \"Anti-Terror Bill\" (HB 6875). Your stance on this issue today will dictate our stance on you come next election.\n(Your name)';
+      let verb = selected.vote === 'Absent' ? 'was' : 'voted';
+      let sampleMsg = 'Dear Congressman ' + surname + ',\n\nAs my elected representative in the legislature, I demand that you protect the rights of the Filipinos to freedom of speech and withdraw your "yes" vote on the "Anti-Terror Bill" (HB 6875). Your stance on this issue today will dictate our stance on you come next election.\n\n(Your name)';
       details = <div><div class="suggestion-content" >
                         <img class="photo" src={selected.photo} alt={selected.name}/>
                         <div>
@@ -147,7 +173,7 @@ class App extends React.Component {
                         {twitter}
                         <Button color='primary' onClick={() => window.open(parsedPhone)}  fullWidth> Phone: {selected.phone} </Button>
                         <Button color='primary' onClick={() => window.open(otherBills)}  fullWidth> Browse Other Bills Authored</Button>
-                        <Button color='green' onClick={() => {navigator.clipboard.writeText(sampleMsg)}}  fullWidth> Copy template message to clipboard</Button>
+                        <Button color='green' onClick={() => {navigator.clipboard.writeText(sampleMsg)}}  fullWidth> Copy message template to clipboard</Button>
                       </div>
                  </div>;
 
