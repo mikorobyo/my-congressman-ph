@@ -1,6 +1,7 @@
 [
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "048. Bernos, Joseph Sto. Niño B.",
    "district": "Abra, Lone District",
    "email": "congjbbernos@gmail.com jb.bernos@house.gov.ph",
@@ -11,7 +12,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "127. Fortun, Lawrence \"Law\" H.",
    "district": "Agusan del Norte, 1st District",
    "email": "lawrencelemuel.fortun@house.gov.ph",
@@ -22,7 +24,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "024. Amante-Matba, Ma. Angelica M.",
    "district": "Agusan del Norte, 2nd District",
    "email": "maangelica.amante-matba@house.gov.ph, cdo_amantematba@yahoo.com",
@@ -33,7 +36,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "043. Bascug, Alfel M.",
    "district": "Agusan del Sur, 1st District",
    "email": "alfel.bascug@house.gov.ph",
@@ -44,7 +48,8 @@
    "constituents": "Bayugan, Esperanza, Prosperidad, San Luis, Sibagat, Talacogon"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "218. Plaza, Eddiebong G.",
    "district": "Agusan del Sur, 2nd District",
    "email": "adolfedward.plaza@house.gov.ph",
@@ -55,7 +60,8 @@
    "constituents": "Bunawan, La Paz, Loreto, Rosario, San Francisco, Santa Josefa, Trento, Veruela"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "186. Marquez, Carlito S.",
    "district": "Aklan, 1st District",
    "email": "carlito.marquez@house.gov.ph",
@@ -66,7 +72,8 @@
    "constituents": "Altavas, Balete, Banga, Batan, Kalibo, Libacao, Madalag, New Washington"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "152. Haresco, Teodorico Jr. T.",
    "district": "Aklan, 2nd District",
    "email": "",
@@ -77,7 +84,8 @@
    "constituents": "Buruanga, Ibajay, Lezo, Makato, Malay, Malinao, Nabas, Numancia, Tangalan"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "166. Lagman, Edcel C.",
    "district": "Albay, 1st District",
    "email": "edcel.lagman@house.gov.ph",
@@ -88,7 +96,8 @@
    "constituents": "Bacacay, Malilipot, Malinao, Santo Domingo, Tabaco, Tiwi"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "240. Salceda, Joey Sarte",
    "district": "Albay, 2nd District",
    "email": "joey.salceda@house.gov.ph",
@@ -99,7 +108,8 @@
    "constituents": "Camalig, Daraga, Legazpi, Manito, Rapu-Rapu"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "061. Cabredo, Fernando T.",
    "district": "Albay, 3rd District",
    "email": "fernando.cabredo@house.gov.ph",
@@ -110,7 +120,8 @@
    "constituents": "Guinobatan, Jovellar, Libon, Ligao, Oas, Pio Duran, Polangui"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "219. Puno, Roberto V.",
    "district": "Antipolo City, 1st District",
    "email": "roberto.puno@house.gov.ph",
@@ -121,7 +132,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "007. Acop, Resurreccion M.",
    "district": "Antipolo City, 2nd District",
    "email": "resurreccion.acop@house.gov.ph",
@@ -132,7 +144,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "171. Legarda, Loren",
    "district": "Antique, Lone District",
    "email": "loren.legarda@house.gov.ph",
@@ -143,7 +156,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "057. Bulut, Elias Jr. C.",
    "district": "Apayao, Lone District",
    "email": "elias.bulut@house.gov.ph",
@@ -154,7 +168,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "027. Angara, Rommel Rico T.",
    "district": "Aurora, Lone District",
    "email": "rommelrico.angara@house.gov.ph",
@@ -165,7 +180,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "138. Gasataya, Greg G.",
    "district": "Bacolod City, Lone District",
    "email": "greg.gasataya@house.gov.ph",
@@ -176,7 +192,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "143. Go, Mark O.",
    "district": "Baguio City, Lone District",
    "email": "markgo@markgo.org",
@@ -187,7 +204,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "Yes",
    "name": "153. Hataman, Mujiv S.",
    "district": "Basilan, Lone District",
    "email": "congress@mujivhataman.ph",
@@ -198,7 +216,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "230. Roman, Geraldine B.",
    "district": "Bataan, 1st District",
    "email": "geraldine.roman@house.gov.ph",
@@ -209,7 +228,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "134. Garcia, Jose Enrique III \"Joet\" S.",
    "district": "Bataan, 2nd District",
    "email": "joseenrique.iii.garcia@house.gov.ph",
@@ -220,7 +240,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "140. Gato, Ciriaco Jr. B.",
    "district": "Batanes, Lone District",
    "email": "ciriaco.gato@house.gov.ph",
@@ -231,7 +252,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "114. Ermita-Buhain, Elenita Milagros \"Eileen\"",
    "district": "Batangas, 1st District",
    "email": "elenitamilagros.ermita-buhain@house.gov.ph",
@@ -242,7 +264,8 @@
    "constituents": "Balayan, Calaca, Calatagan, Lemery, Lian, Nasugbu, Taal, Tuy"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "004. Abu, Raneo \"Ranie\" E.",
    "district": "Batangas, 2nd District",
    "email": "raneo.abu@house.gov.ph",
@@ -253,7 +276,8 @@
    "constituents": "Bauan, Lobo, Mabini, San Luis, San Pascual, Tingloy"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "082. Collantes, Ma. Theresa V.",
    "district": "Batangas, 3rd District",
    "email": "matheresa.collantes@house.gov.ph",
@@ -264,8 +288,9 @@
    "constituents": "Agoncillo, Alitagtag, Balete, Cuenca, Laurel, Malvar, Mataasnakahoy, San Nicolas, Santa Teresita, Santo Tomas, Talisay, Tanauan"
  },
  {
-   "vote": "Yes",
-   "name": "052. Bolilia, Lianda B. PRINCIPAL AUTHOR",
+   "terrorvote": "Yes (PRINCIPAL AUTHOR)",
+   "absvote": "Yes",
+   "name": "052. Bolilia, Lianda B.",
    "district": "Batangas, 4th District",
    "email": "lianda.bolilia@house.gov.ph",
    "twitter": "",
@@ -275,7 +300,8 @@
    "constituents": "Ibaan, Padre Garcia, Rosario, San Jose, San Juan and Taysan"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "185. Mariño, Mario Vittorio \"Marvey\" A.",
    "district": "Batangas, 5th District",
    "email": "mariovittorio.marino@house.gov.ph",
@@ -286,7 +312,8 @@
    "constituents": "Batangas City"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "Yes",
    "name": "245. Santos-Recto, Vilma",
    "district": "Batangas, 6th District",
    "email": "vilma.santos-recto@house.gov.ph",
@@ -297,7 +324,8 @@
    "constituents": "Lipa City"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "126. Fongwan, Nestor B. (Deceased) - Acting Rep: Yap, Eric Go (Partylist ACT-CIS)",
    "district": "Benguet, Lone District",
    "email": "eric.yap@house.gov.ph",
@@ -308,7 +336,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "116. Espina, Gerardo Jr. \"Gerryboy\" J.",
    "district": "Biliran, Lone District",
    "email": "gerryboy.espina@house.gov.ph",
@@ -319,7 +348,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "020. Alonte, Marlyn \"Len\" B.",
    "district": "Biñan City, Lone District",
    "email": "marlyn.alonte@house.gov.ph",
@@ -330,7 +360,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "076. Chatto, Edgar M.",
    "district": "Bohol, 1st District",
    "email": "edgardo.chatto@house.gov.ph",
@@ -341,7 +372,8 @@
    "constituents": "Alburquerque, Antequera, Baclayon, Balilihan, Calape, Catigbian, Corella, Cortes, Dauis, Loon, Maribojoc, Panglao, Sikatuna, Tagbilaran, Tubigon"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "034. Aumentado, Erico Aristotle C.",
    "district": "Bohol, 2nd District",
    "email": "ericoaristotle.aumentado@house.gov.ph",
@@ -352,7 +384,8 @@
    "constituents": "Bien Unido, Buenavista, Clarin, Dagohoy, Danao, Getafe, Inabanga, President Carlos P. Garcia, Sagbayan, San Isidro, San Miguel, Talibon, Trinidad, Ubay"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "276. Tutor, Kristine Alexie B.",
    "district": "Bohol, 3rd District",
    "email": "kristinealexie.tutor@house.gov.ph",
@@ -363,7 +396,8 @@
    "constituents": "Alicia, Anda, Batuan, Bilar, Candijay, Carmen, Dimiao, Duero, Garcia Hernandez, Guindulman, Jagna, Lila, Loay, Loboc, Mabini, Pilar, Sevilla, Sierra Bullones, Valencia"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "009. Acosta-Alba, Ma. Lourdes",
    "district": "Bukidnon, 1st District",
    "email": "rep.acostaalba@gmail.com marialourdes.acosta-alba@house.gov.ph",
@@ -374,7 +408,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "125. Flores, Jonathan Keith T.",
    "district": "Bukidnon, 2nd District",
    "email": "jonathankeith.flores@house.gov.ph",
@@ -385,7 +420,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "305. Zubiri, Manuel F.",
    "district": "Bukidnon, 3rd District",
    "email": "manuelantonio.zubiri@house.gov.ph",
@@ -396,7 +432,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "236. Roque, Rogelio Neil P.",
    "district": "Bukidnon, 4th District",
    "email": "rogelioneil.roque@house.gov.ph",
@@ -407,7 +444,8 @@
    "constituents": "Kalilangan, Pangantucan, Valencia"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "259. Sy-Alvarado, \"Kuya\" Jose Antonio R.",
    "district": "Bulacan, 1st District",
    "email": "joseantonio.sy-alvarado@house.gov.ph",
@@ -418,7 +456,8 @@
    "constituents": "Bulacan, Calumpit, Hagonoy, Malolos, Paombong, Pulilan"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "212. Pancho, Gavini \"Apol\" C.",
    "district": "Bulacan, 2nd District",
    "email": "gavini.pancho@house.gov.ph",
@@ -429,7 +468,8 @@
    "constituents": "Balagtas, Baliuag, Bocaue, Bustos, Guiguinto, Pandi, Plaridel"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "250. Silverio, Lorna C.",
    "district": "Bulacan, 3rd District",
    "email": "lorna.silverio@house.gov.ph",
@@ -440,7 +480,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "297. Villarica, Henry R.",
    "district": "Bulacan, 4th District",
    "email": "henry.villarica@house.gov.ph",
@@ -451,7 +492,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "284. Uy, Rolando \"Klarex\" A.",
    "district": "Cagayan de Oro City, 1st District",
    "email": "rolando.uy@house.gov.ph",
@@ -462,7 +504,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "229. Rodriguez, Rufus B.",
    "district": "Cagayan de Oro City, 2nd District",
    "email": "florida.robes@house.gov.ph",
@@ -473,7 +516,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "199. Nolasco, Ramon Jr. C.",
    "district": "Cagayan, 1st District",
    "email": "ramon.nolascojr@house.gov.ph",
@@ -484,7 +528,8 @@
    "constituents": "Alcala, Aparri, Baggao, Buguey, Camalaniugan, Gattaran, Gonzaga, Lal-lo, Santa Ana, Santa Teresita"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "018. Alfonso, Samantha Louise Vargas",
    "district": "Cagayan, 2nd District",
    "email": "samanthalouise.alfonso@house.gov.ph",
@@ -495,7 +540,8 @@
    "constituents": "Abulug, Allacapan, Ballesteros, Calayan, Claveria, Lasam, Pamplona, Piat, Rizal, Sanchez-Mira, Santa Praxedes, Santo Niño"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "168. Lara, Joseph \"Jojo\" L.",
    "district": "Cagayan, 3rd District",
    "email": "joseph.lara@house.gov.ph",
@@ -506,7 +552,8 @@
    "constituents": "Amulung, Enrile, Iguig, Peñablanca, Solana, Tuao, Tuguegarao"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "077. Chipeco, Joaquin Jr. M.",
    "district": "Calamba City, Lone District",
    "email": "joaquin.jr.chipeco@house.gov.ph",
@@ -517,7 +564,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "180. Malapitan, Dale \"Along\" R.",
    "district": "Caloocan City, 1st District",
    "email": "dale.malapitan@house.gov.ph",
@@ -528,7 +576,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "112. Erice, Edgar R.",
    "district": "Caloocan City, 2nd District",
    "email": "edgar.erice@house.gov.ph",
@@ -539,7 +588,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "261. Tallado, Josefina B.",
    "district": "Camarines Norte, 1st District",
    "email": "josefina.tallado@house.gov.ph",
@@ -550,7 +600,8 @@
    "constituents": "Capalonga, Jose Panganiban, Labo, Paracale, Santa Elena"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "213. Panotes, Marisol C.",
    "district": "Camarines Norte, 2nd District",
    "email": "marisol.panotes@house.gov.ph",
@@ -561,7 +612,8 @@
    "constituents": "Basud, Daet, Mercedes, San Lorenzo Ruiz, San Vicente, Talisay, Vinzons"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "026. Andaya, Marissa",
    "district": "Camarines Sur, 1st District",
    "email": "marissa.andaya@house.gov.ph",
@@ -572,8 +624,9 @@
    "constituents": "Cabusao, Del Gallego, Lupi, Ragay, Sipocot"
  },
  {
-   "vote": "Absent",
-   "name": "292. Villafuerte, Luis Raymund Jr. \"LRay\" F. PRINCIPAL AUTHOR",
+   "terrorvote": "Absent (PRINCIPAL AUTHOR)",
+   "absvote": "No",
+   "name": "292. Villafuerte, Luis Raymund Jr. \"LRay\" F.",
    "district": "Camarines Sur, 2nd District",
    "email": "luisraymund.jr.villafuerte@house.gov.ph",
    "twitter": "",
@@ -583,7 +636,8 @@
    "constituents": "Gainza, Libmanan, Milaor, Minalabac, Pamplona, Pasacao, San Fernando"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "Yes",
    "name": "054. Bordado, Gabriel Jr. H.",
    "district": "Camarines Sur, 3rd District",
    "email": "gabriel.jr.bordado@house.gov.ph",
@@ -594,7 +648,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "130. Fuentebella, Arnie B.",
    "district": "Camarines Sur, 4th District",
    "email": "arnie.fuentebella@house.gov.ph",
@@ -605,7 +660,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "128. Fortuno, Jocelyn F.",
    "district": "Camarines Sur, 5th District",
    "email": "jocelyn.fortuno@house.gov.ph",
@@ -616,7 +672,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "234. Romualdo, Xavier Jesus D.",
    "district": "Camiguin, Lone District",
    "email": "xavierjesus.romualdo@house.gov.ph",
@@ -627,7 +684,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "050. Billones, Emmanuel \"Tawi\"",
    "district": "Capiz, 1st District",
    "email": "emmanuel.billones@house.gov.ph",
@@ -638,7 +696,8 @@
    "constituents": "Maayon, Panay, Panitan, Pilar, Pontevedra, President Roxas, Roxas"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "072. Castro, Fredenil \"Fred\" H.",
    "district": "Capiz, 2nd District",
    "email": "fredenil.castro@house.gov.ph",
@@ -649,7 +708,8 @@
    "constituents": "Cuartero, Dao, Dumalag, Dumarao, Ivisan, Jamindan, Mambusao, Sapian, Sigma, Tapaz"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "243. Sanchez, Hector S.",
    "district": "Catanduanes, Lone District",
    "email": "hector.sanchez@house.gov.ph",
@@ -660,7 +720,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "002. Abaya, Francis Gerald Aguinaldo",
    "district": "Cavite, 1st District",
    "email": "francisgerald.abaya@house.gov.ph",
@@ -671,7 +732,8 @@
    "constituents": "Cavite City, Kawit, Noveleta, Rosario"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "225. Revilla, Strike B.",
    "district": "Cavite, 2nd District",
    "email": "strike.revilla@house.gov.ph",
@@ -682,7 +744,8 @@
    "constituents": "Bacoor"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "011. Advincula, Alex \"AA\" L.",
    "district": "Cavite, 3rd District",
    "email": "alex.advincula@house.gov.ph",
@@ -693,7 +756,8 @@
    "constituents": "Imus"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "042. Barzaga, Elpidio Jr. F.",
    "district": "Cavite, 4th District",
    "email": "elpidio.barzaga@house.gov.ph",
@@ -704,7 +768,8 @@
    "constituents": "Dasmariñas"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "176. Loyola, Dahlia A.",
    "district": "Cavite, 5th District",
    "email": "dahlia.loyola@house.gov.ph",
@@ -715,7 +780,8 @@
    "constituents": "Carmona, General Mariano Alvarez, Silang"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "124. Ferrer, Luis IV \"Jon-Jon\" A.",
    "district": "Cavite, 6th District",
    "email": "luis.iv.ferrer@house.gov.ph",
@@ -726,7 +792,8 @@
    "constituents": "General Trias"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "224. Remulla, Jesus Crispin C.",
    "district": "Cavite, 7th District",
    "email": "jesuscrispin.remulla@house.gov.ph",
@@ -737,7 +804,8 @@
    "constituents": "Amadeo, Indang, Tanza, Trece Martires"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "272. Tolentino, Abraham \"Bambol\" N.",
    "district": "Cavite, 8th District",
    "email": "abraham.tolentino@house.gov.ph",
@@ -748,7 +816,8 @@
    "constituents": "Alfonso, General Emilio Aguinaldo, Magallanes, Maragondon, Mendez, Naic, Tagaytay, Ternate"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "097. Del Mar, Raul V.",
    "district": "Cebu City, 1st District",
    "email": "raul.delmar@house.gov.ph",
@@ -759,7 +828,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "003. Abellanosa, Rodrigo A.",
    "district": "Cebu City, 2nd District",
    "email": "rodrigo.abellanosa@house.gov.ph",
@@ -770,7 +840,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "150. Gullas, Eduardo \"Eddie\" R.",
    "district": "Cebu, 1st District",
    "email": "eduardo.gullas@house.gov.ph",
@@ -781,7 +852,8 @@
    "constituents": "Carcar, Minglanilla, Naga, San Fernando, Sibonga, Talisay"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "065. Caminero, Wilfredo \"Willy\" S.",
    "district": "Cebu, 2nd District",
    "email": "wilfredo.caminero@house.gov.ph",
@@ -792,7 +864,8 @@
    "constituents": "Alcoy, Argao, Boljoon, Dalaguete, Oslob, Samboan, Santander"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "135. Garcia, Pablo John F.",
    "district": "Cebu, 3rd District",
    "email": "pablojohn.garcia@house.gov.ph",
@@ -803,7 +876,8 @@
    "constituents": "Aloguinsan, Asturias, Balamban, Barili, Pinamungajan, Toledo, Tuburan"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "241. Salimbangon, Janice Z.",
    "district": "Cebu, 4th District",
    "email": "janice.salimbangon@house.gov.ph",
@@ -814,7 +888,8 @@
    "constituents": "Bantayan, Bogo, Daanbantayan, Madridejos, Medellin, San Remigio, Santa Fe, Tabogon, Tabuelan"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "129. Frasco, Vincent Franco 'Duke' D.",
    "district": "Cebu, 5th District",
    "email": "vincentfranco.frasco@house.gov.ph",
@@ -825,7 +900,8 @@
    "constituents": "Borbon, Carmen, Catmon, Compostela, Danao, Liloan, Pilar, Poro, San Francisco, Sogod, Tudela"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "206. Ouano-Dizon, Emmarie \"Lolypop\" M.",
    "district": "Cebu, 6th District",
    "email": "lolypopouanodizon@house.gov.ph",
@@ -836,7 +912,8 @@
    "constituents": "Consolacion, Cordova, Mandaue"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "063. Calderon, Peter John D.",
    "district": "Cebu, 7th District",
    "email": "peterjohn.calderon@house.gov.ph",
@@ -847,7 +924,8 @@
    "constituents": "Alcantara, Alegria, Badian, Dumanjug, Ginatilan, Malabuyoc, Moalboal, Ronda"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "104. Duterte, Paolo Z.",
    "district": "Davao City, 1st District",
    "email": "paolo.duterte@house.gov.ph",
@@ -858,7 +936,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "133. Garcia, Vincent J.",
    "district": "Davao City, 2nd District",
    "email": "vincent.garcia@house.gov.ph",
@@ -869,7 +948,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "282. Ungab, Isidro T.",
    "district": "Davao City, 3rd District",
    "email": "isidro.ungab@house.gov.ph",
@@ -880,7 +960,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "302. Zamora, Manuel \"Way Kurat\" E.",
    "district": "Davao de Oro, 1st District",
    "email": "waykurat.zamora@house.gov.ph",
@@ -891,7 +972,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "144. Gonzaga, Ruwel Peter S.",
    "district": "Davao de Oro, 2nd District",
    "email": "ruwelpeter.gonzaga@house.gov.ph",
@@ -902,7 +984,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "023. Alvarez, Pantaleon D.",
    "district": "Davao del Norte, 1st District",
    "email": "pantaleon.alvarez@house.gov.ph",
@@ -913,7 +996,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "103. Dujali, Alan \"Aldu\" R.",
    "district": "Davao del Norte, 2nd District",
    "email": "alan.dujali@house.gov.ph",
@@ -924,7 +1008,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "062. Cagas, Mercedes \"Didi\" C.",
    "district": "Davao del Sur, Lone District",
    "email": "",
@@ -935,7 +1020,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "045. Bautista-Bandigan, Lorna P.",
    "district": "Davao Occidental, Lone District",
    "email": "lorna.bautista-bandigan@house.gov.ph",
@@ -946,7 +1032,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "200. Nuñez-Malanyaon, Corazon T.",
    "district": "Davao Oriental, 1st District",
    "email": "corazon.nunez-malanyaon@house.gov.ph",
@@ -957,7 +1044,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "019. Almario, Joel Mayo Z.",
    "district": "Davao Oriental, 2nd District",
    "email": "joelmayo.almario@house.gov.ph",
@@ -968,7 +1056,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "109. Ecleo, Alan 1 B.",
    "district": "Dinagat Islands, Lone District",
    "email": "alan1.ecleo@house.gov.ph",
@@ -979,7 +1068,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "006. Abunda, Maria Fe R.",
    "district": "Eastern Samar, Lone District",
    "email": "mafe.bunda@house.gov.ph",
@@ -990,7 +1080,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "194. Nava, Ma. Lucille L., M.D.",
    "district": "Guimaras, Lone District",
    "email": "malucille.nava@house.gov.ph",
@@ -1001,7 +1092,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "078. Chungalao, Solomon R.",
    "district": "Ifugao, Lone District",
    "email": "",
@@ -1012,7 +1104,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "249. Siao, Frederick W.",
    "district": "Iligan City, Lone District",
    "email": "",
@@ -1023,7 +1116,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "119. Fariñas, Ria Christina G.",
    "district": "Ilocos Norte, 1st District",
    "email": "ria.farinas@house.gov.ph",
@@ -1034,7 +1128,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "039. Barba, Angelo Marcos",
    "district": "Ilocos Norte, 2nd District",
    "email": "eugenioangelo.barba@house.gov.ph",
@@ -1045,7 +1140,8 @@
    "constituents": "Badoc, Banna, Batac, Currimao, Dingras, Marcos, Nueva Era, Paoay, Pinili, San Nicolas, Solsona"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "248. Savellano, Deogracias Victor \"DV\" B.",
    "district": "Ilocos Sur, 1st District",
    "email": "deograciasvictor.savellano@house.gov.ph",
@@ -1056,7 +1152,8 @@
    "constituents": "Bantay, Cabugao, Caoayan, Magsingal, San Ildefonso, San Juan, San Vicente, Santa Catalina, Santo Domingo, Sinait, Vigan"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "252. Singson-Meehan, Kristine",
    "district": "Ilocos Sur, 2nd District",
    "email": "kristine.singson-meehan@house.gov.ph",
@@ -1067,7 +1164,8 @@
    "constituents": "Alilem, Banayoyo, Burgos, Candon, Cervantes, Galimuyod, Gregorio del Pilar, Lidlidda, Nagbukel, Narvacan, Quirino, Salcedo, San Emilio, San Esteban, Santa, Santa Cruz, Santa Lucia, Santa Maria, Santiago, Sigay, Sugpon, Suyo, Tagudin"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "041. Baronda, Julienne \"Jam\" L.",
    "district": "Iloilo City, Lone District",
    "email": "jamjambaronda@gmail.com julienne.baronda@house.gov.ph",
@@ -1078,7 +1176,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "No",
    "name": "136. Garin, Janette L.",
    "district": "Iloilo, 1st District",
    "email": "janette.garin@house.gov.ph",
@@ -1089,7 +1188,8 @@
    "constituents": "Guimbal, Igbaras, Miagao, Oton, San Joaquin, Tigbauan, Tubungan"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "148. Gorriceta, Michael B.",
    "district": "Iloilo, 2nd District",
    "email": "",
@@ -1100,7 +1200,8 @@
    "constituents": "Alimodian, Leganes, Leon, New Lucena, Pavia, San Miguel, Santa Barbara, Zarraga"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "095. Defensor, Lorenz R.",
    "district": "Iloilo, 3rd District",
    "email": "lorenz.defensor@house.gov.ph",
@@ -1111,7 +1212,8 @@
    "constituents": "Badiangan, Bingawan, Cabatuan, Calinog, Janiuay, Lambunao, Maasin, Mina, Pototan"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "051. Biron, Braeden John Q.",
    "district": "Iloilo, 4th District",
    "email": "braedenjohn.biron@house.gov.ph",
@@ -1122,7 +1224,8 @@
    "constituents": "Anilao, Banate, Barotac Nuevo, Dingle, Dueñas, Dumangas, Passi, San Enrique"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "275. Tupas, Raul \"Boboy\" C.",
    "district": "Iloilo, 5th District",
    "email": "raul.tupas@house.gov.ph",
@@ -1133,7 +1236,8 @@
    "constituents": "Ajuy, Balasan, Barotac Viejo, Batad, Carles, Concepcion, Estancia, Lemery, San Dionisio, San Rafael, Sara"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "16. Albano, Antonio \"Tonypet\" T.",
    "district": "Isabela, 1st District",
    "email": "antonio.albano@house.gov.ph",
@@ -1144,7 +1248,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "142. Go, Ed Christopher S.",
    "district": "Isabela, 2nd District",
    "email": "edchristopher.go@house.gov.ph",
@@ -1155,7 +1260,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "107. Dy, Ian Paul L.",
    "district": "Isabela, 3rd District",
    "email": "ianpaul.dy@house.gov.ph",
@@ -1166,7 +1272,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "263. Tan, Alyssa Sheena P.",
    "district": "Isabela, 4th District",
    "email": "alyssasheena.tan@house.gov.ph",
@@ -1177,7 +1284,8 @@
    "constituents": "Cordon, Dinapigue, Jones, San Agustin, Santiago"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "105. Dy, Faustino Michael Carlos III T.",
    "district": "Isabela, 5th District",
    "email": "faustinomichale.dy@house.gov.ph",
@@ -1188,7 +1296,8 @@
    "constituents": "Aurora, Burgos, Luna, Mallig, Quezon, Quirino, Roxas, San Manuel"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "106. Dy, Faustino V \"Inno\" A.",
    "district": "Isabela, 6th District",
    "email": "faustino.v.dy@house.gov.ph",
@@ -1199,7 +1308,8 @@
    "constituents": "Cauayan, Echague, San Guillermo, San Isidro"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "181. Mangaoang, Allen Jesse C.",
    "district": "Kalinga, Lone District",
    "email": "allenjesse.mangaoang@house.gov.ph",
@@ -1210,7 +1320,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "205. Ortega, Pablo C.",
    "district": "La Union, 1st District",
    "email": "pablo.ortega@house.gov.ph",
@@ -1221,7 +1332,8 @@
    "constituents": "Bacnotan, Balaoan, Bangar, Luna, San Fernando, San Gabriel, San Juan, Santol, Sudipen"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "113. Eriguel, Sandra Y., M.D.",
    "district": "La Union, 2nd District",
    "email": " sandra.eriguel@house.gov.ph",
@@ -1232,7 +1344,8 @@
    "constituents": "Agoo, Aringay, Bagulin, Bauang, Burgos, Caba, Naguilian, Pugo, Rosario, Santo Tomas, Tubao"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "121. Fernandez, Dan S.",
    "district": "Laguna, 1st District",
    "email": "dan.fernandez@house.gov.ph",
@@ -1243,7 +1356,8 @@
    "constituents": "San Pedro, Santa Rosa"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "184. Mariano-Hernandez, Ruth",
    "district": "Laguna, 2nd District",
    "email": "ruth.mariano-hernandez@house.gov.ph",
@@ -1254,7 +1368,8 @@
    "constituents": "Bay, Cabuyao, Los Baños"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "Yes",
    "name": "028. Aragones, Sol",
    "district": "Laguna, 3rd District",
    "email": "sol.aragones@house.gov.ph",
@@ -1265,7 +1380,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "13. Agarao, Benjamin Jr. C.",
    "district": "Laguna, 4th District",
    "email": "benjamin.jr.agarao@house.gov.ph",
@@ -1276,7 +1392,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "101. Dimaporo, Mohamad Khalid Q.",
    "district": "Lanao del Norte, 1st District",
    "email": "mohamadkhalid.dimaporo@house.gov.ph",
@@ -1287,7 +1404,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "100. Dimaporo, Abdullah D.",
    "district": "Lanao del Norte, 2nd District",
    "email": "abdullah.dimaporo@house.gov.ph",
@@ -1298,7 +1416,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "010. Adiong, Ansaruddin Abdul Malik A.",
    "district": "Lanao del Sur, 1st District",
    "email": "ansaruddin.adiong@house.gov.ph",
@@ -1309,7 +1428,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "038. Balindong, Yasser Alonto",
    "district": "Lanao del Sur, 2nd District",
    "email": "yasser.balindong@house.gov.ph",
@@ -1320,7 +1440,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "221. Radaza, Paz C.",
    "district": "Lapu-Lapu City, Lone District",
    "email": "paz.radaza@house.gov.ph",
@@ -1331,7 +1452,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "295. Villar, Camille A.",
    "district": "Las Piñas City, Lone District",
    "email": "camille.villar@house.gov.ph",
@@ -1342,7 +1464,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "232. Romualdez, Ferdinand Martin G.",
    "district": "Leyte, 1st District",
    "email": "ferdinandmartin.romualdez@house.gov.ph",
@@ -1353,7 +1476,8 @@
    "constituents": "Alangalang, Babatngon, Palo, San Miguel, Santa Fe, Tacloban, Tanauan, Tolosa"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "158. Javier, Lolita T.",
    "district": "Leyte, 2nd District",
    "email": "lolita.javier@house.gov.ph",
@@ -1364,7 +1488,8 @@
    "constituents": "Barugo, Burauen, Capoocan, Carigara, Dagami, Dulag, Jaro, Julita, La Paz, MacArthur, Mayorga, Pastrana, Tabontabon, Tunga"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "289. Veloso, Vicente III \"Ching\" S.E.",
    "district": "Leyte, 3rd District",
    "email": "vicente.veloso@house.gov.ph",
@@ -1375,7 +1500,8 @@
    "constituents": "Calubian, Leyte, San Isidro, Tabango, Villaba"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "273. Torres-Gomez, Lucy",
    "district": "Leyte, 4th District",
    "email": "lucymarie.gomez@house.gov.ph",
@@ -1386,7 +1512,8 @@
    "constituents": "Albuera, Isabel, Kananga, Matag-ob, Merida, Ormoc, Palompon"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "069. Cari, Carl Nicolas C.",
    "district": "Leyte, 5th District",
    "email": "carlnicolas.cari@house.gov.ph",
@@ -1397,7 +1524,8 @@
    "constituents": "Abuyog, Bato, Baybay, Hilongos, Hindang, Inopacan, Javier, Mahaplag and Matalom"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "253. Sinsuat, Datu Roonie Sr. Q.",
    "district": "Maguindanao, 1st District",
    "email": "daturoonie.sr.sinsuat@house.gov.ph",
@@ -1408,7 +1536,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "182. Mangudadatu, Esmael G.",
    "district": "Maguindanao, 2nd District",
    "email": "esmael.mangudadatu@house.gov.ph",
@@ -1419,7 +1548,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "214. Peña, Romulo Jr. \"Kid\"",
    "district": "Makati City, 1st District",
    "email": "romulo.pena@house.gov.ph",
@@ -1430,7 +1560,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "066. Campos, Luis Jr. N.",
    "district": "Makati City, 2nd District",
    "email": "luisjoseangel.jr.campos@house.gov.ph",
@@ -1441,7 +1572,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "165. Lacson-Noel, Josephine Veronique R.",
    "district": "Malabon City, Lone District",
    "email": "josephineveronique.lacson-noel@house.gov.ph",
@@ -1452,7 +1584,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "146. Gonzales, Neptali II M.",
    "district": "Mandaluyong City, Lone District",
    "email": "neptali.gonzales@house.gov.ph",
@@ -1463,7 +1596,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "175. Lopez, Manuel Luis T.",
    "district": "Manila, 1st District",
    "email": "manuelluis.lopez@house.gov.ph",
@@ -1474,7 +1608,8 @@
    "constituents": "west Tondo"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "285. Valeriano, Rolando M.",
    "district": "Manila, 2nd District",
    "email": "rolando.valeriano@house.gov.ph",
@@ -1485,7 +1620,8 @@
    "constituents": "east Tondo"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "195. Nieto, John Marvin \"Yul Servo\" C.",
    "district": "Manila, 3rd District",
    "email": "johnmarvin.nieto@house.gov.ph",
@@ -1496,7 +1632,8 @@
    "constituents": "Binondo, Quiapo, San Nicolas, Santa Cruz"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "Yes",
    "name": "178. Maceda, Edward Vera Perez",
    "district": "Manila, 4th District",
    "email": "edward.maceda@house.gov.ph",
@@ -1507,7 +1644,8 @@
    "constituents": "Sampaloc"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "037. Bagatsing, Cristal L.",
    "district": "Manila, 5th District",
    "email": "cristalbagatsing@gmail.com cristal.bagatsing@house.gov.ph",
@@ -1518,7 +1656,8 @@
    "constituents": "Ermita, Intramuros,Malate, Port Area, San Andres, south Paco"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "Yes",
    "name": "001. Abante, Bienvenido Jr. M. MINORITY LEADER",
    "district": "Manila, 6th District",
    "email": "bienvenido.abante@house.gov.ph",
@@ -1529,7 +1668,8 @@
    "constituents": "north Paco, Pandacan, San Miguel, Santa Ana, Santa Mesa"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "122. Fernando, Bayani F.",
    "district": "Marikina City, 1st District",
    "email": "bayani.fernando@house.gov.ph",
@@ -1540,7 +1680,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "Yes",
    "name": "220. Quimbo, Stella Luz A.",
    "district": "Marikina City, 2nd District",
    "email": "stella.quimbo@house.gov.ph",
@@ -1551,7 +1692,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "288. Velasco, Lord Allan Jay Q.",
    "district": "Marinduque, Lone District",
    "email": "lordallanjay.velasco@house.gov.ph",
@@ -1562,7 +1704,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "055. Bravo, Narciso Jr. R.",
    "district": "Masbate, 1st District",
    "email": "narciso.jr.bravo@house.gov.ph",
@@ -1573,7 +1716,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "160. Kho, Elisa \"Olga\" T.",
    "district": "Masbate, 2nd District",
    "email": "elisa.kho@house.gov.ph",
@@ -1584,7 +1728,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "161. Kho, Wilton \"Tonton\" Tan",
    "district": "Masbate, 3rd District",
    "email": "wilton.kho@house.gov.ph",
@@ -1595,7 +1740,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "278. Ty, Diego \"Nonoy\" C.",
    "district": "Misamis Occidental, 1st District",
    "email": "diego.ty@house.gov.ph",
@@ -1606,7 +1752,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "201. Oaminal, Henry S.",
    "district": "Misamis Occidental, 2nd District",
    "email": "henry.oaminal@house.gov.ph",
@@ -1617,7 +1764,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "281. Unabia, Christian S.",
    "district": "Misamis Oriental, 1st District",
    "email": "christian.unabia@house.gov.ph",
@@ -1628,7 +1776,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "283. Uy, Juliette T.",
    "district": "Misamis Oriental, 2nd District",
    "email": "juliette.uy@house.gov.ph",
@@ -1639,7 +1788,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "090. Dalog, Maximo Jr. Y.",
    "district": "Mountain Province, 1st District",
    "email": "maximo.jr.dalog@house.gov.ph",
@@ -1650,8 +1800,9 @@
    "constituents": ""
  },
  {
-   "vote": "No",
-   "name": "049. Biazon, Rozzano Rufino B. PRINCIPAL AUTHOR",
+   "terrorvote": "No (PRINCIPAL AUTHOR)",
+   "absvote": "",
+   "name": "049. Biazon, Rozzano Rufino B.",
    "district": "Muntinlupa City, Lone District",
    "email": "ruffy.biazon@house.gov.ph",
    "twitter": "https://twitter.com/ruffybiazon",
@@ -1661,7 +1812,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "271. Tiangco, John Reynald M.",
    "district": "Navotas City, Lone District",
    "email": "johnreynald.tiangco@house.gov.ph",
@@ -1672,7 +1824,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "286. Valmayor, Gerardo Jr. P.",
    "district": "Negros Occidental, 1st District",
    "email": "gerardo.jr.valmayor@house.gov.ph",
@@ -1683,7 +1836,8 @@
    "constituents": "Calatrava, Escalante, Salvador Benedicto, San Carlos, Toboso"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "086. Cueva, Leo Rafael M.",
    "district": "Negros Occidental, 2nd District",
    "email": "leorafael.cueva@house.gov.ph",
@@ -1694,7 +1848,8 @@
    "constituents": "Cadiz, Manapla, Sagay"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "047. Benitez, Francisco \"Kiko\" B.",
    "district": "Negros Occidental, 3rd District",
    "email": "josefrancisco.benitez@house.gov.ph",
@@ -1705,7 +1860,8 @@
    "constituents": "Enrique B. Magalona, Murcia, Silay, Talisay, Victorias"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "123. Ferrer, Juliet Marie De Leon",
    "district": "Negros Occidental, 4th District",
    "email": "julietmarie.ferrer@house.gov.ph",
@@ -1716,7 +1872,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "032. Arroyo, Ma. Lourdes T.",
    "district": "Negros Occidental, 5th District",
    "email": "mtaoffice.mta5thdistrict@gmail.com malourdes.arroyo@house.gov.ph",
@@ -1727,7 +1884,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "022. Alvarez, Genaro Jr. M.",
    "district": "Negros Occidental, 6th District",
    "email": "genaro.alvarez@house.gov.ph",
@@ -1738,7 +1896,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "173. Limkaichong, Jocelyn Sy",
    "district": "Negros Oriental, 1st District",
    "email": "jocelyn.limkaichong@house.gov.ph",
@@ -1749,7 +1908,8 @@
    "constituents": "Ayungon, Bindoy, Canlaon, Guihulngan, Jimalalud, La Libertad, Manjuyod, Tayasan, Vallehermoso"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "238. Sagarbarria, Manuel T.",
    "district": "Negros Oriental, 2nd District",
    "email": "manuel.sagarbarria@house.gov.ph",
@@ -1760,7 +1920,8 @@
    "constituents": "Amlan, Bais, Dumaguete, Mabinay, Pamplona, San Jose, Sibulan, Tanjay"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "269. Teves, Arnolfo Jr. \"Arnie\" A.",
    "district": "Negros Oriental, 3rd District",
    "email": "arnolfo.jr.teves@house.gov.ph",
@@ -1771,7 +1932,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "237. Sacdalan, Joselito \"Joel\" S.",
    "district": "North Cotabato, 1st District",
    "email": "joselito.sacdalan@house.gov.ph",
@@ -1782,7 +1944,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "068. Caoagdan, Rudy S., DPA",
    "district": "North Cotabato, 2nd District",
    "email": "rudy.caoagdan@house.gov.ph",
@@ -1793,7 +1956,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "Yes",
    "name": "268. Tejada, Jose \"Ping-Ping\" I.",
    "district": "North Cotabato, 3rd District",
    "email": "jose.tejada@house.gov.ph",
@@ -1804,7 +1968,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "092. Daza, Paul Ruiz",
    "district": "Northern Samar, 1st District",
    "email": "paul.daza@house.gov.ph",
@@ -1815,7 +1980,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "203. Ong, Jose Jr. \"Jun\" L.",
    "district": "Northern Samar, 2nd District",
    "email": "jose.jr.ong@house.gov.ph",
@@ -1826,7 +1992,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "254. Suansing, Estrellita B.",
    "district": "Nueva Ecija, 1st District",
    "email": "estrellita.suansing@house.gov.ph",
@@ -1837,7 +2004,8 @@
    "constituents": "Aliaga, Cuyapo, Guimba, Licab, Nampicuan, Quezon, Santo Domingo, Talavera, Zaragoza"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "Abstain",
    "name": "298. Violago, Micaela S.",
    "district": "Nueva Ecija, 2nd District",
    "email": "micaela.violago@house.gov.ph",
@@ -1848,7 +2016,8 @@
    "constituents": "Carranglan, Llanera, Lupao, Muñoz, Pantabangan, Rizal, San Jose, Talugtug"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "290. Vergara, Rosanna \"Ria\" V.",
    "district": "Nueva Ecija, 3rd District",
    "email": "rosanna.vergara@house.gov.ph",
@@ -1859,7 +2028,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "193. Natividad-Nagaño, Maricel G., MD.",
    "district": "Nueva Ecija, 4th District",
    "email": "maricel.natividad-nagano@house.gov.ph",
@@ -1870,7 +2040,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "085. Cuaresma, Luisa Lloren",
    "district": "Nueva Vizcaya, Lone District",
    "email": "luisalloren.cuaresma@house.gov.ph",
@@ -1881,7 +2052,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "222. Ramirez-Sato, Josephine",
    "district": "Occidental Mindoro, Lone District",
    "email": "josephine.ramirez-sato@house.gov.ph",
@@ -1892,7 +2064,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "170. Leachon, Doy C.",
    "district": "Oriental Mindoro, 1st District",
    "email": "paulinosalvador.leachon@house.gov.ph",
@@ -1903,7 +2076,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "279. Umali, Alfonso Jr. V.",
    "district": "Oriental Mindoro, 2nd District",
    "email": "alfonso.umali@house.gov.ph",
@@ -1914,7 +2088,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "021. Alvarez, Franz \"Chicoy\" E.",
    "district": "Palawan, 1st District",
    "email": "franz.alvarez@house.gov.ph",
@@ -1925,7 +2100,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "005. Abueg-Zaldivar, Cyrille \"Beng\" F.",
    "district": "Palawan, 2nd District",
    "email": "cyrille.abueg-zaldivar@house.gov.ph",
@@ -1936,7 +2112,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "008. Acosta, Gil \"Kabarangay Jr.\" A.",
    "district": "Palawan, 3rd District",
    "email": "repgilacostajr@gmail.com gil.jr.acosta@house.gov.ph",
@@ -1947,7 +2124,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "169. Lazatin, Carmelo II \"Jon\" B.",
    "district": "Pampanga, 1st District",
    "email": "carmelo.ii.lazatin@house.gov.ph cong.jon.lazatin.2016@gmail.com",
@@ -1958,7 +2136,8 @@
    "constituents": "Angeles, Mabalacat, Magalang"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "031. Arroyo, Juan Miguel Macapagal",
    "district": "Pampanga, 2nd District",
    "email": "juanmiguel.macapagalarroyo@house.gov.ph",
@@ -1969,7 +2148,8 @@
    "constituents": "Floridablanca, Guagua, Lubao, Porac, Santa Rita, Sasmuan"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "145. Gonzales, Aurelio Jr. \"Dong\" D.",
    "district": "Pampanga, 3rd District",
    "email": "aurelio.jr.gonzales@house.gov.ph",
@@ -1980,7 +2160,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "053. Bondoc, Juan Pablo \"Rimpy\" P.",
    "district": "Pampanga, 4th District",
    "email": "juanpablo.bondoc@house.gov.ph",
@@ -1991,7 +2172,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "075. Celeste, Arnold \"Noli\" D.",
    "district": "Pangasinan, 1st District",
    "email": "arnold.celeste@house.gov.ph",
@@ -2002,7 +2184,8 @@
    "constituents": "Agno, Alaminos, Anda, Bani, Bolinao, Burgos, Dasol, Infanta, Mabini, Sual"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "117. Espino, Jumel Anthony I.",
    "district": "Pangasinan, 2nd District",
    "email": "jumelanthony.espino@house.gov.ph",
@@ -2013,7 +2196,8 @@
    "constituents": "Aguilar, Basista, Binmaley, Bugallon, Labrador, Lingayen, Mangatarem, Urbiztondo"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "030. Arenas, Rose Marie \"Baby\" J.",
    "district": "Pangasinan, 3rd District",
    "email": "rosemarie.arenas@house.gov.ph",
@@ -2024,7 +2208,8 @@
    "constituents": "Bayambang, Calasiao, Malasiqui, Mapandan, San Carlos, Santa Barbara"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "Yes",
    "name": "094. De Venecia, Christopher V.P.",
    "district": "Pangasinan, 4th District",
    "email": "",
@@ -2035,7 +2220,8 @@
    "constituents": "Dagupan, Manaoag, Mangaldan, San Fabian, San Jacinto"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "149. Guico, Ramon III \"Mon-Mon\" V.",
    "district": "Pangasinan, 5th District",
    "email": "ramon.iii.guico@house.gov.ph",
@@ -2046,7 +2232,8 @@
    "constituents": "Alcala, Bautista, Binalonan, Laoac, Pozorrubio, Santo Tomas, Sison, Urdaneta, Villasis"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "012. Agabas, Tyrone D.",
    "district": "Pangasinan, 6th District",
    "email": "tyrone.agabas@house.gov.ph",
@@ -2057,7 +2244,8 @@
    "constituents": "Asingan, Balungao, Natividad, Rosales, San Manuel, San Nicolas, San Quintin, Santa Maria, Tayug, Umingan"
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "202. Olivarez, Eric L.",
    "district": "Parañaque City, 1st District",
    "email": "eric.olivarez@house.gov.ph",
@@ -2068,7 +2256,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "262. Tambunting, Joy Myra S.",
    "district": "Parañaque City, 2nd District",
    "email": "joymyra.tambunting@house.gov.ph",
@@ -2079,7 +2268,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "217. Pineda, Enrico A.",
    "district": "Party List - 1-PACMAN",
    "email": "enrico.pineda@house.gov.ph",
@@ -2090,8 +2280,9 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
-   "name": "231. Romero, Michael L., Ph.D. PRINCIPAL AUTHOR",
+   "terrorvote": "Absent (PRINCIPAL AUTHOR)",
+   "absvote": "No",
+   "name": "231. Romero, Michael L., Ph.D.",
    "district": "Party List - 1-PACMAN",
    "email": "michaelodylon.romero@house.gov.ph",
    "twitter": "",
@@ -2101,7 +2292,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "280. Umali, Ma. Victoria V.",
    "district": "Party List - A TEACHER",
    "email": "mavictoria.umali@house.gov.ph",
@@ -2112,7 +2304,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "137. Garin, Sharon S.",
    "district": "Party List - AAMBIS-OWA",
    "email": "sharon.garin@house.gov.ph",
@@ -2123,7 +2316,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "210. Paduano, Joseph Stephen \"Caraps\" S.",
    "district": "Party List - ABANG LINGKOD",
    "email": "josephstephen.paduano@house.gov.ph",
@@ -2134,7 +2328,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "118. Estrella, Conrado III M.",
    "district": "Party List - ABONO",
    "email": "conrado.iii.estrella@house.gov.ph",
@@ -2145,8 +2340,9 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
-   "name": "260. Taduran, Rowena Niña O. PRINCIPAL AUTHOR",
+   "terrorvote": "Yes (PRINCIPAL AUTHOR)",
+   "absvote": "",
+   "name": "260. Taduran, Rowena Niña O. ",
    "district": "Party List - ACT-CIS",
    "email": "nina.taduran@house.gov.ph",
    "twitter": "https://twitter.com/ninataduran",
@@ -2156,8 +2352,9 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
-   "name": "274. Tulfo, Jocelyn P. PRINCIPAL AUTHOR",
+   "terrorvote": "Yes (PRINCIPAL AUTHOR)",
+   "absvote": "",
+   "name": "274. Tulfo, Jocelyn P.",
    "district": "Party List - ACT-CIS",
    "email": "jocelyn.tulfo@house.gov.ph",
    "twitter": "",
@@ -2167,8 +2364,9 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
-   "name": "299. Yap, Eric Go PRINCIPAL AUTHOR",
+   "terrorvote": "Yes (PRINCIPAL AUTHOR)",
+   "absvote": "No",
+   "name": "299. Yap, Eric Go",
    "district": "Party List - ACT-CIS",
    "email": "eric.yap@house.gov.ph",
    "twitter": "",
@@ -2178,7 +2376,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "071. Castro, France L.",
    "district": "Party List - ACT-TEACHERS",
    "email": "france.castro@house.gov.ph",
@@ -2189,7 +2388,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "141. Geron, Rico B.",
    "district": "Party List - AGAP",
    "email": "rico.geron@house.gov.ph",
@@ -2200,7 +2400,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "080. Co, Elizaldy S.",
    "district": "Party List - AKO BICOL",
    "email": "elizaldy.co@house.gov.ph",
@@ -2211,7 +2412,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "Abstain",
    "name": "132. Garbin, Alfredo Jr. A.",
    "district": "Party List - AKO BICOL",
    "email": "alfredo.jr.garbin@house.gov.ph",
@@ -2222,7 +2424,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "167. Lagon, Sonny \"SL\" L.",
    "district": "Party List - AKO BISAYA",
    "email": "sonny.lagon@house.gov.ph",
@@ -2233,7 +2436,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "108. Ebcas, Adriano A.",
    "district": "Party List - AKO PADAYON PILIPINO",
    "email": "adriano.ebcas@house.gov.ph",
@@ -2244,7 +2448,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "296. Villaraza-Suarez, Anna Marie",
    "district": "Party List - ALONA",
    "email": "annamarie.villaraza-suarez@house.gov.ph",
@@ -2255,7 +2460,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "244. Sangcopan, Amihilda J.",
    "district": "Party List - AMIN",
    "email": "amihilda.sangcopan@house.gov.ph",
@@ -2266,7 +2472,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "196. Noel, Florencio G.",
    "district": "Party List - AN WARAY",
    "email": "florencio.noel@house.gov.ph",
@@ -2277,7 +2484,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "096. Defensor, Michael T.",
    "district": "Party List - ANAKALUSUGAN",
    "email": "michael.defensor@house.gov.ph",
@@ -2288,7 +2496,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "098. Delos Santos, Alfred C.",
    "district": "Party List - ANG PROBINSYANO",
    "email": "alfred.delossantos@house.gov.ph",
@@ -2299,7 +2508,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "204. Ong, Ronnie L.",
    "district": "Party List - ANG PROBINSYANO",
    "email": "ronnie.ong@house.gov.ph",
@@ -2310,7 +2520,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "088. Dagooc, Sergio C.",
    "district": "Party List - APEC",
    "email": "sergio.dagooc@house.gov.ph",
@@ -2321,7 +2532,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "015. Aguinaldo, Naealla Bainto",
    "district": "Party List - BAHAY",
    "email": "naellarose.bainto-aguinaldo@house.gov.ph",
@@ -2332,7 +2544,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "087. Cullamat, Eufemia \"Ka Femia\" C.",
    "district": "Party List - BAYAN MUNA",
    "email": "eufemia.cullamat@house.gov.ph",
@@ -2343,7 +2556,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "131. Gaite, Ferdinand R.",
    "district": "Party List - BAYAN MUNA",
    "email": "ferdinand.gaite@house.gov.ph",
@@ -2354,7 +2568,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "Yes",
    "name": "304. Zarate, Carlos Isagani T.",
    "district": "Party List - BAYAN MUNA",
    "email": "carlosisagani.zarate@house.gov.ph",
@@ -2365,7 +2580,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "155. Herrera-Dy, Bernadette \"BH\"",
    "district": "Party List - BH",
    "email": "bagonghenerasyonbh@gmail.com",
@@ -2376,7 +2592,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "079. Co, Angelica Natasha",
    "district": "Party List - BHW",
    "email": "angelicanatasha.co@house.gov.ph",
@@ -2387,7 +2604,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "033. Atienza, Jose Jr. L.",
    "district": "Party List - BUHAY",
    "email": "jose.jr.atienza@house.gov.ph",
@@ -2398,7 +2616,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "227. Rivera, Domingo C.",
    "district": "Party List - CIBAC",
    "email": "domingo.rivera@house.gov.ph",
@@ -2409,7 +2628,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "293. Villanueva, Eduardo \"Bro. Eddie\" C.",
    "district": "Party List - CIBAC",
    "email": "eduardo.villanueva@house.gov.ph",
@@ -2420,7 +2640,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "067. Canama, Sabiniano S.",
    "district": "Party List - COOP-NATCCO",
    "email": "sabiniano.canama@house.gov.ph",
@@ -2431,7 +2652,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "192. Momo, Romeo Sr. S.",
    "district": "Party List - CWS",
    "email": "romeo.momo@house.gov.ph",
@@ -2442,7 +2664,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "14. Aglipay, Michael Edgar Y.",
    "district": "Party List - DIWA",
    "email": "michaeledgar.aglipay@house.gov.ph",
@@ -2453,7 +2676,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "044. Bautista, Claudine Diana D.",
    "district": "Party List - DUMPER PTDA",
    "email": "claudinediana.bautista@house.gov.ph",
@@ -2464,7 +2688,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "056. Brosas, Arlene D.",
    "district": "Party List - GABRIELA",
    "email": "gwp.arlenebrosas@gmail.com arlene.brosas@house.gov.ph",
@@ -2475,7 +2700,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "209. Padiernos, Jose Gay G.",
    "district": "Party List - GP",
    "email": "josegay.padiernos@house.gov.ph",
@@ -2486,7 +2712,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "110. Elago, Sarah Jane I.",
    "district": "Party List - KABATAAN",
    "email": "sarahjane.elago@house.gov.ph",
@@ -2497,7 +2724,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "242. Salo, Ron P.",
    "district": "Party List - KABAYAN",
    "email": "ron.salo@house.gov.ph",
@@ -2508,7 +2736,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "247. Saulog, Irene Gay F.",
    "district": "Party List - KALINGA",
    "email": "irenegay.saulog@house.gov.ph",
@@ -2519,7 +2748,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "267. Tan, Shernee A.",
    "district": "Party List - KUSUG TAUSUG",
    "email": "shernee.tan@house.gov.ph",
@@ -2530,7 +2760,8 @@
    "constituents": ""
  },
  {
-   "vote": "",
+   "terrorvote": "",
+   "absvote": "No",
    "name": "017. Albano, Rodolfo B. (Deceased)",
    "district": "Party List - LPGMA",
    "email": "",
@@ -2541,7 +2772,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "277. Ty, Allan U.",
    "district": "Party List - LPGMA",
    "email": "allan.ty@house.gov.ph",
@@ -2552,7 +2784,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "060. Cabochan, Manuel III DG.",
    "district": "Party List - MAGDALO",
    "email": "manuel.iii.cabochan@house.gov.ph",
@@ -2563,7 +2796,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "059. Cabatbat, Argel Joseph T.",
    "district": "Party List - MAGSASAKA",
    "email": "argeljoseph.cabatbat@house.gov.ph",
@@ -2574,7 +2808,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "164. Lacson, Virgilio S.",
    "district": "Party List - MANILA TEACHERS",
    "email": "virgilio.lacson@house.gov.ph",
@@ -2585,7 +2820,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "147. Gonzalez, Sandro L.",
    "district": "Party List - MARINO",
    "email": "carlolisandro.gonzalez@house.gov.ph",
@@ -2596,7 +2832,8 @@
    "constituents": ""
  },
  {
-   "vote": "",
+   "terrorvote": "",
+   "absvote": "",
    "name": "174. Lopez, Jose Antonio G. (Dropped from the Roll)",
    "district": "Party List - MARINO",
    "email": "",
@@ -2607,7 +2844,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "177. Lusotan, Macnell M.",
    "district": "Party List - MARINO",
    "email": "macnell.lusotan@house.gov.ph",
@@ -2618,7 +2856,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "207. Pacquiao, Alberto \"Bobby\" D.",
    "district": "Party List - OFW FAMILY",
    "email": "alberto.pacquiao@house.gov.ph",
@@ -2629,7 +2868,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "058. Bustos, Jorge \"PATROL\"",
    "district": "Party List - PATROL",
    "email": "jorgeantonio.bustos@house.gov.ph",
@@ -2640,8 +2880,9 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
-   "name": "197. Nograles, Jericho Jonas B. PRINCIPAL AUTHOR",
+   "terrorvote": "Yes",
+   "absvote": "No",
+   "name": "197. Nograles, Jericho Jonas B.",
    "district": "Party List - PBA",
    "email": "jerichojonas.nograles@house.gov.ph",
    "twitter": "https://twitter.com/kokonograles",
@@ -2651,7 +2892,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "93. De Jesus, Presley C.",
    "district": "Party List - PHILRECA",
    "email": "presley.dejesus@house.gov.ph",
@@ -2662,7 +2904,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "120. Fariñas, Rudys Caesar I G.",
    "district": "Party List - PROBINSYANO AKO",
    "email": "congressoffice_rcf@yahoo.com.ph",
@@ -2673,7 +2916,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "251. Singson, Jose Jr. \"Bonito\" C.",
    "district": "Party List - PROBINSYANO AKO",
    "email": "jose.jr.singson@house.gov.ph",
@@ -2684,7 +2928,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "172. Lim, Aloy",
    "district": "Party List - RAM",
    "email": "aloy.lim@house.gov.ph",
@@ -2695,7 +2940,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "151. Guya, Godofredo N.",
    "district": "Party List - RECOBODA",
    "email": "godofredo.guya@house.gov.ph",
@@ -2706,7 +2952,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "183. Marcoleta, Rodante D.",
    "district": "Party List - SAGIP",
    "email": "rodante.marcoleta@house.gov.ph",
@@ -2717,7 +2964,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "091. Datol, Francisco Jr. G.",
    "district": "Party List - SENIOR CITIZENS",
    "email": "francisco.datol@house.gov.ph",
@@ -2728,7 +2976,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "270. Teves, Jose Jr. \"Bong\" J.",
    "district": "Party List - TGP",
    "email": "jose.jr.teves@house.gov.ph",
@@ -2739,7 +2988,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "233. Romualdez, Yedda Marie K.",
    "district": "Party List - TINGOG SINIRANGAN",
    "email": "yeddamarie.romualdez@house.gov.ph",
@@ -2750,7 +3000,8 @@
    "constituents": ""
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "No",
    "name": "190. Mendoza, Raymond Democrito C.",
    "district": "Party List - TUCP",
    "email": "raymonddemocrito.mendoza@house.gov.ph",
@@ -2761,7 +3012,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "064. Calixto, Antonino G.",
    "district": "Pasay City, Lone District",
    "email": "antonino.calixto@house.gov.ph",
@@ -2772,7 +3024,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "235. Romulo, Roman T.",
    "district": "Pasig City, Lone District",
    "email": "roman.romulo@house.gov.ph",
@@ -2783,7 +3036,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "083. Crisologo, Anthony Peter \"Onyx\" D.",
    "district": "Quezon City, 1st District",
    "email": "anthonypeter.crisologo@house.gov.ph",
@@ -2794,7 +3048,8 @@
    "constituents": "Alicia, Bagong Pag-asa, Bahay Toro, Balingasa, Bungad, Damar, Damayan, Del Monte, Katipunan, Lourdes, Maharlika, Manresa, Mariblo, Masambong, N.S. Amoranto (Gintong Silahis), Nayong Kanluran, Paang Bundok, Pag-ibig sa Nayon, Paltok, Paraiso, Phil-Am, Project 6, Ramon Magsaysay, Saint Peter, Salvacion, San Antonio, San Isidro Labrador, San Jose, Santa Cruz, Santa Teresita, Santo Cristo, Santo Domingo, Siena, Talayan, Vasra, Veterans Village, West Triangle"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "No",
    "name": "070. Castelo, Precious Hipolito",
    "district": "Quezon City, 2nd District",
    "email": "precious.hipolitocastelo@house.gov.ph",
@@ -2805,7 +3060,8 @@
    "constituents": "Bagong Silangan, Batasan Hills, Commonwealth, Holy Spirit, Payatas"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "226. Reyes, Allan Benedict S.",
    "district": "Quezon City, 3rd District",
    "email": "allanbenedict.reyes@house.gov.ph",
@@ -2816,7 +3072,8 @@
    "constituents": "Amihan, Bagumbuhay, Bagumbayan, Bayanihan, Blue Ridge A, Blue Ridge B, Camp Aguinaldo, Claro, Dioquino Zobel, Duyan-Duyan, E. Rodriguez, East Kamias, Escopa I, Escopa II, Escopa III, Escopa IV, Libis, Loyola Heights, Mangga, Marilag, Masagana, Matandang Balara, Milagrosa, Pansol, Quirino 2-A, Quirino 2-B, Quirino 2-C, Quirino 3-A, Saint Ignatius, San Roque, Silangan, Socorro, Tagumpay, Ugong Norte, Villa Maria Clara, West Kamias, White Plains"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "258. Suntay, Jesus \"Bong\" C.",
    "district": "Quezon City, 4th District",
    "email": "jesus.suntay@house.gov.ph",
@@ -2827,7 +3084,8 @@
    "constituents": "Bagong Lipunan ng Crame, Botocan, Central, Kristong Hari, Damayang Lagi, Doña Aurora, Doña Imelda, Doña Josefa, Don Manuel, East Triangle, Horseshoe, Immaculate Conception, Kalusugan, Kamuning, Kaunlaran, Krus na Ligas, Laging Handa, Malaya, Mariana, Obrero, Old Capitol Site, Paligsahan, Pinyahan, Pinagkaisahan, QMC, Roxas, Sacred Heart, San Isidro Galas, San Martin de Porres (Cubao), San Vicente, Santo Niño, Santol, Sikatuna Village, South Triangle, Tatalon, Teachers Village East, Teachers Village West, U.P. Campus, U.P. Village, Valencia"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "Abstain",
    "name": "287. Vargas, Alfred D.",
    "district": "Quezon City, 5th District",
    "email": "alfredo.vargas@house.gov.ph",
@@ -2838,7 +3096,8 @@
    "constituents": "Bagbag, Capri, Fairview, Greater Lagro, Gulod, Kaligayahan, Nagkaisang Nayon, North Fairview, Novaliches Proper, Pasong Putik Proper, San Agustin, San Bartolome, Santa Lucia, Santa Monica"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "046. Belmonte, Jose Christopher Y.",
    "district": "Quezon City, 6th District",
    "email": "josechristopher.belmonte@house.gov.ph",
@@ -2849,7 +3108,8 @@
    "constituents": "Apolonio Samson, Baesa, Balon-Bato, Culiat, New Era, Pasong Tamo, Sangandaan, Sauyo, Talipapa, Tandang Sora, Unang Sigaw"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "111. Enverga, Wilfrido Mark M.",
    "district": "Quezon, 1st District",
    "email": "wilfridomark.enverga@house.gov.ph",
@@ -2860,7 +3120,8 @@
    "constituents": "Burdeos, General Nakar, Infanta, Jomalig, Lucban, Mauban, Pagbilao, Panukulan, Patnanungan, Polillo, Real, Sampaloc, Tayabas"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "257. Suarez, David \"Jay-Jay\" C.",
    "district": "Quezon, 2nd District",
    "email": "david.suarez@house.gov.ph",
@@ -2871,7 +3132,8 @@
    "constituents": "Candelaria, Dolores, Lucena, San Antonio, Sariaya, Tiaong"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "256. Suarez, Aleta C.",
    "district": "Quezon, 3rd District",
    "email": "aleta.suarez@house.gov.ph",
@@ -2882,7 +3144,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "264. Tan, Angelina \"Helen\" D.L., M.D.",
    "district": "Quezon, 4th District",
    "email": "angelina.tan@house.gov.ph",
@@ -2893,7 +3156,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "084. Cua, Junie E.",
    "district": "Quirino, 1st District",
    "email": "junie.cua@house.gov.ph",
@@ -2904,7 +3168,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "102. Duavit, Michael John R.",
    "district": "Rizal, 1st District",
    "email": "michaeljohn.duavit@house.gov.ph",
@@ -2915,7 +3180,8 @@
    "constituents": "Angono, Binangonan, Cainta, Taytay"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes (PRINCIPAL AUTHOR)",
+   "absvote": "No",
    "name": "198. Nograles, Juan Fidel Felipe F.",
    "district": "Rizal, 2nd District",
    "email": "juanfidelfelipe.nograles@house.gov.ph",
@@ -2926,7 +3192,8 @@
    "constituents": "Baras, Cardona, Jalajala, Morong, Pililla, Rodriguez, San Mateo, Tanay, Teresa"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "179. Madrona, Eleandro Jesus F.",
    "district": "Romblon, Lone District",
    "email": "budoymadrona@house.gov.ph",
@@ -2937,7 +3204,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "246. Sarmiento, Edgar Mary S.",
    "district": "Samar, 1st District",
    "email": "edgarmary.sarmiento@house.gov.ph",
@@ -2948,7 +3216,8 @@
    "constituents": "Almagro, Calbayog, Gandara, Matuguinao, Pagsanghan, San Jorge, Santa Margarita, Santo Niño, Tagapul-an, Tarangnan"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "No",
    "name": "266. Tan, Sharee Ann T.",
    "district": "Samar, 2nd District",
    "email": "shareeann.tan@house.gov.ph",
@@ -2959,7 +3228,8 @@
    "constituents": "Basey, Calbiga, Catbalogan, Daram, Hinabangan, Jiabong, Marabut, Motiong, Paranas, Pinabacdao, San Jose de Buan, San Sebastian, Santa Rita, Talalora, Villareal, Zumarraga"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "228. Robes, Florida \"Rida\" P.",
    "district": "San Jose Del Monte City, Lone District",
    "email": "florida.robes@house.gov.ph",
@@ -2970,7 +3240,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "303. Zamora, Ronaldo B.",
    "district": "San Juan City, Lone District",
    "email": "ronaldo.zamora@house.gov.ph",
@@ -2981,7 +3252,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "208. Pacquiao, Rogelio \"Ruel\" D.",
    "district": "Sarangani, Lone District",
    "email": "rogelio.pacquiao@house.gov.ph",
@@ -2992,7 +3264,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "291. Villa, Jake Vincent",
    "district": "Siquijor, Lone District",
    "email": "jakevincent.villa@house.gov.ph",
@@ -3003,7 +3276,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "115. Escudero, Evelina G.",
    "district": "Sorsogon, 1st District",
    "email": "evelina.escudero@house.gov.ph",
@@ -3014,7 +3288,8 @@
    "constituents": "Casiguran, Castilla, Donsol, Magallanes, Pilar, Sorsogon City"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "223. Ramos, Ma. Bernardita \"Ditas\" B.",
    "district": "Sorsogon, 2nd District",
    "email": "ditas.ramos@house.gov.ph",
@@ -3025,7 +3300,8 @@
    "constituents": "Barcelona, Bulan, Bulusan, Gubat, Irosin, Juban, Matnog, Prieto Diaz, Santa Magdalena"
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "035. Bañas-Nograles, Shirlyn",
    "district": "South Cotabato, 1st District",
    "email": "shirlyn.banas-nograles@house.gov.ph",
@@ -3036,7 +3312,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "No",
    "name": "154. Hernandez, Ferdinand L.",
    "district": "South Cotabato, 2nd District",
    "email": "repdinand@gmail.com",
@@ -3047,7 +3324,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "191. Mercado, Roger G.",
    "district": "Southern Leyte, Lone District",
    "email": "roger.mercado@house.gov.ph",
@@ -3058,7 +3336,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "239. Sakaluran, Princess Rihan M.",
    "district": "Sultan Kudarat, 1st District",
    "email": "princessrihan.sakaluran@house.gov.ph",
@@ -3069,7 +3348,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "255. Suansing, Horacio Jr. P.",
    "district": "Sultan Kudarat, 2nd District",
    "email": "horacio.jr.suansing@house.gov.ph",
@@ -3080,7 +3360,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "265. Tan, Samier A.",
    "district": "Sulu, 1st District",
    "email": "samier.tan@house.gov.ph",
@@ -3091,7 +3372,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "029. Arbison, Munir M.",
    "district": "Sulu, 2nd District",
    "email": "munir.arbison@house.gov.ph",
@@ -3102,7 +3384,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "189. Matugas, Francisco Jose II \"Bingo\" F., CPA,CESO,LLB",
    "district": "Surigao del Norte, 1st District",
    "email": "franciscojose.ii.matugas@house.gov.ph",
@@ -3113,7 +3396,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "040. Barbers, Robert Ace S.",
    "district": "Surigao del Norte, 2nd District",
    "email": "ace.barbers.17thcongress@gmail.com robertace.barbers@house.gov.ph",
@@ -3124,7 +3408,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "215. Pichay, Prospero Jr. A.",
    "district": "Surigao del Sur, 1st District",
    "email": "prospero.jr.pichay@house.gov.ph",
@@ -3135,7 +3420,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "No",
    "name": "216. Pimentel, Johnny Ty",
    "district": "Surigao del Sur, 2nd District",
    "email": "johnny.pimentel@house.gov.ph",
@@ -3146,7 +3432,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "073. Cayetano, Alan Peter \"Compañero\" S.",
    "district": "Taguig City-Pateros, 1st District",
    "email": "housespeakeralancayetano@house.gov.ph",
@@ -3157,7 +3444,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "074. Cayetano, Maria Laarni",
    "district": "Taguig City-Pateros, 2nd District",
    "email": "malaarni.cayetano@house.gov.ph",
@@ -3168,7 +3456,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "081. Cojuangco, Carlos O.",
    "district": "Tarlac, 1st District",
    "email": "carlos.cojuangco@house.gov.ph",
@@ -3179,7 +3468,8 @@
    "constituents": "Anao, Camiling, Mayantoc, Moncada, Paniqui, Pura, Ramos, San Clemente, San Manuel, Santa Ignacia"
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "300. Yap, Victor A.",
    "district": "Tarlac, 2nd District",
    "email": "victor.yap@house.gov.ph",
@@ -3190,7 +3480,8 @@
    "constituents": "Gerona, San Jose, Tarlac City, Victoria"
  },
  {
-   "vote": "No",
+   "terrorvote": "No",
+   "absvote": "",
    "name": "294. Villanueva, Noel L.",
    "district": "Tarlac, 3rd District",
    "email": "noel.villanueva@house.gov.ph",
@@ -3201,7 +3492,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "188. Matba, Rashidin H.",
    "district": "Tawi-Tawi, Lone District",
    "email": "rashidin.matba@house.gov.ph",
@@ -3212,7 +3504,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "139. Gatchalian, Weslie",
    "district": "Valenzuela City, 1st District",
    "email": "weslie.gatchalian@house.gov.ph",
@@ -3223,7 +3516,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "187. Martinez, Eric M.",
    "district": "Valenzuela City, 2nd District",
    "email": "eric.martinez@house.gov.ph",
@@ -3234,7 +3528,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "162. Khonghun, Jeffrey D.",
    "district": "Zambales, 1st District",
    "email": "jeffrey.khonghun@house.gov.ph",
@@ -3245,7 +3540,8 @@
    "constituents": ""
  },
  {
-   "vote": "Abstain",
+   "terrorvote": "Abstain",
+   "absvote": "",
    "name": "099. Deloso-Montalla, Cheryl P.",
    "district": "Zambales, 2nd District",
    "email": "cheryl.deloso-montalla@house.gov.ph",
@@ -3256,7 +3552,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "159. Jimenez, Cesar Jr. \"Jawo\" L.",
    "district": "Zamboanga City, 1st District",
    "email": "",
@@ -3267,7 +3564,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "089. Dalipe, Manuel Jose \"Mannix\" M.",
    "district": "Zamboanga City, 2nd District",
    "email": "manueljose.dalipe@house.gov.ph",
@@ -3278,7 +3576,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "157. Jalosjos, Romeo Jr. M.",
    "district": "Zamboanga del Norte, 1st District",
    "email": "romeo.jr.jalosjos@house.gov.ph",
@@ -3289,7 +3588,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "163. Labadlabad, Glona G.",
    "district": "Zamboanga del Norte, 2nd District",
    "email": "glona.labadlabad@house.gov.ph",
@@ -3300,7 +3600,8 @@
    "constituents": ""
  },
  {
-   "vote": "Absent",
+   "terrorvote": "Absent",
+   "absvote": "",
    "name": "025. Amatong, Isagani S.",
    "district": "Zamboanga del Norte, 3rd District",
    "email": "isagani.amatong@house.gov.ph",
@@ -3311,7 +3612,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "301. Yu, Divina Grace C.",
    "district": "Zamboanga del Sur, 1st District",
    "email": "divinagrace.yu@house.gov.ph",
@@ -3322,7 +3624,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "",
    "name": "036. Babasa, Leonardo Jr. L.",
    "district": "Zamboanga del Sur, 2nd District",
    "email": "leonardo.babasa@house.gov.ph",
@@ -3333,7 +3636,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "211. Palma, Wilter \"Sharky\" II Wee",
    "district": "Zamboanga Sibugay, 1st District",
    "email": "wilter.sharky.palma@house.gov.ph",
@@ -3344,7 +3648,8 @@
    "constituents": ""
  },
  {
-   "vote": "Yes",
+   "terrorvote": "Yes",
+   "absvote": "No",
    "name": "156. Hofer, Ann K.",
    "district": "Zamboanga Sibugay, 2nd District",
    "email": "dulceann.hofer@house.gov.ph",

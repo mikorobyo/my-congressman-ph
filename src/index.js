@@ -18,6 +18,19 @@ const getSuggestions = value => {
   );
 };
 
+let bills = ['HB 6724 - "ABS-CBN Franchise Renewal"', 'HB 6875 - "Anti-Terror Bill"'];
+let billLinks = ['http://www.congress.gov.ph/legisdocs/basic_18/HB06724.pdf', 'http://www.congress.gov.ph/legisdocs/first_18/CR00340.pdf'];
+var selectedBillIndex = 0;
+
+const getBills = value => {
+  const inputValue = value.trim().toLowerCase();
+  const inputLength = inputValue.length;
+
+  return inputLength === 0 ? [] : bills.filter(lang =>
+    lang.toLowerCase().includes(inputValue) //|| lang.constituents.toLowerCase().includes(inputValue)
+  );
+};
+
 const getSuggestionValue = suggestion => suggestion.district;
 
 function renderSuggestion(suggestion, { query }) {
@@ -64,14 +77,15 @@ const renderBill = bill => (
 );
 
 class App extends React.Component {
+
   constructor() {
     super();
 
     this.state = {
-      billValue: 'HB 6875 - "Anti-Terror Bill"',
+      billValue: bills[0],
       cityValue: '',
       suggestions: [],
-      bills: ['HB Anti-Terror Bill'],
+      bills: [],
       selected: {},
     };
   }
@@ -102,13 +116,13 @@ class App extends React.Component {
 
   onChangeBill = (event, { newValue }) => {
     this.setState({
-//      billValue: newValue
+      billValue: newValue
     });
   };
 
   onBillsFetchRequested = ({ value }) => {
       this.setState({
-        bills: getSuggestions(value)
+        bills: getBills(value)
       });
     };
 
@@ -117,6 +131,10 @@ class App extends React.Component {
         bills: []
     });
   };
+
+  onBillSelected = (event, { suggestion }) => {
+     selectedBillIndex = bills.indexOf(suggestion);
+   };
 
   render() {
     const { billValue, cityValue, suggestions, bills, selected } = this.state;
@@ -134,8 +152,6 @@ class App extends React.Component {
     };
 
     let details;
-    let billLink = 'http://www.congress.gov.ph/legisdocs/first_18/CR00340.pdf';
-
 
     if (selected.name) {
         let parsedName = selected.name.substring(selected.name.indexOf('.') + 2);
@@ -145,7 +161,12 @@ class App extends React.Component {
             selected.photo = 'http://www.congress.gov.ph/members/images/18th/' + surname.toLowerCase() + '-' + nameInitial + '.jpg';
         }
 
-      let voteColor =  selected.vote === 'No' ? 'blue' :  (selected.vote === 'Yes' ? 'red' : 'grey'); //grey for Abstain and Absent
+      let vote = selectedBillIndex === 0 ? selected.absvote : selected.terrorvote;
+      if (vote === '') {
+        vote = '(No Data Available)';
+      }
+      let voteColor = selectedBillIndex === 0  ? (vote.indexOf('No') !== -1 ? 'red' :  (vote.indexOf('Yes') !== -1 ? 'blue' : 'grey')) :
+      (vote.indexOf('No') !== -1 ? 'blue' :  (vote.indexOf('Yes') !== -1 ? 'red' : 'grey')); //grey for Abstain and Absent
       let fbId = selected.facebook.substring(selected.facebook.indexOf('facebook.com/') + 'facebook.com/'.length, selected.facebook.length - 1);;
       let messengerLink = 'https://m.me/' + fbId;
       let twitterId = selected.twitter.substring(selected.twitter.indexOf('twitter.com/') + 'twitter.com/'.length, selected.twitter.length);;
@@ -156,12 +177,12 @@ class App extends React.Component {
       if (selected.twitter !== ''){
         twitter = <Button color='primary' onClick={() => window.open(selected.twitter)}  fullWidth> Twitter: @{twitterId} </Button>
       }
-      let verb = selected.vote === 'Absent' ? 'was' : 'voted';
-      let sampleMsg = 'Dear Congressman ' + surname + ',\n\nAs my elected representative in the legislature, I demand that you protect the rights of the Filipinos to freedom of speech and withdraw your "yes" vote on the "Anti-Terror Bill" (HB 6875). Your stance on this issue today will dictate our stance on you come next election.\n\n(Your name)';
+      let verb = vote === 'Absent' ? 'was' : 'voted';
+      //let sampleMsg = 'Dear Congressman ' + surname + ',\n\nAs my elected representative in the legislature, I demand that you protect the rights of the Filipinos to freedom of speech and withdraw your "yes" vote on the "Anti-Terror Bill" (HB 6875). Your stance on this issue today will dictate our stance on you come next election.\n\n(Your name)';
       details = <div><div class="suggestion-content" >
                         <img class="photo" src={selected.photo} alt={selected.name}/>
                         <div>
-                            <div class="name">{parsedName} {verb} <font color={voteColor}>{selected.vote}</font></div>
+                            <div class="name">{parsedName} {verb} <font color={voteColor}>{vote}</font></div>
                         </div>
                       </div>
                       <div>
@@ -173,7 +194,6 @@ class App extends React.Component {
                         {twitter}
                         <Button color='primary' onClick={() => window.open(parsedPhone)}  fullWidth> Phone: {selected.phone} </Button>
                         <Button color='primary' onClick={() => window.open(otherBills)}  fullWidth> Browse Other Bills Authored</Button>
-                        <Button color='green' onClick={() => {navigator.clipboard.writeText(sampleMsg)}}  fullWidth> Copy message template to clipboard</Button>
                       </div>
                  </div>;
 
@@ -187,17 +207,18 @@ class App extends React.Component {
       <Typography variant="h4" gutterBottom>My Congressman PH</Typography>
       </div>
       <Typography variant="body2" gutterBottom>
-      <p>Alamin ang mga akda at <b>boto</b> ng iyong kongresista sa mga panukalang batas, tulad ng <i>Anti-Terror Bill</i>. Layon nitong mas maging aktibo ang mga mamamayan sa proseso ng paggawa at pag-apruba ng mga batas sa pamamagitan ng mga kumakatawan sa atin sa Kongreso.</p>
+      <p>Alamin ang mga akda at <b>boto</b> ng iyong kongresista sa mga panukalang batas. Layon nitong mas maging aktibo ang mga mamamayan sa proseso ng paggawa at pag-apruba ng mga batas sa pamamagitan ng mga kumakatawan sa atin sa Kongreso.</p>
       </Typography>
       <Autosuggest
           suggestions={bills}
           onSuggestionsFetchRequested={this.onBillsFetchRequested}
           onSuggestionsClearRequested={this.onBillsClearRequested}
+          onSuggestionSelected={this.onBillSelected}
           getSuggestionValue={getBillValue}
           renderSuggestion={renderBill}
           inputProps={inputPropsBills}
       />
-      <Button color='primary' onClick={() => window.open(billLink)}  fullWidth> Read House Bill 6875</Button>
+      <Button color='primary' onClick={() => window.open(billLinks[selectedBillIndex])}  fullWidth> Read House Bill</Button>
       <br />
       <Autosuggest
           suggestions={suggestions}
